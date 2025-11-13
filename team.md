@@ -7,7 +7,7 @@ Chaque équipe doit :
 3. Faire un **commit + push** après les modifications.
 > 💡 Vous pouvez **changer votre emoji d’équipe** pour quelque chose qui vous représente mieux 😄 
 
-### 📅 Date limite & présentation : **18 novembre 2025**
+## 📅 Date limite & présentation : **18 novembre 2025**
 
 
 ---
@@ -53,6 +53,12 @@ Chaque équipe doit :
 - 👥 **Membres :** Kevin Joffret, Martin Risch, Giovanni Legrand  
 - 🔗 **Repo GitHub :** _à compléter_
 
+---
+
+### 🥤 Team GOSSIP
+- 👥 **Membres :** AHMED-MESSAOUD Abdelmalek, CHEBEL Lina, AITGAGHOU Ranya  
+- 🔗 **Repo GitHub :** _à compléter_
+  
 ---
 
 > ⏰ **Deadline stricte : 18 novembre 2025**  
